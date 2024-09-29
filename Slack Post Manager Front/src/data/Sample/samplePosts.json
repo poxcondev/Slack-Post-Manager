@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "氏名1",
+        "content": "投稿内容1",
+        "ocrContent": "画像OCR結果内容1",
+        "imageUrl": "https://template-run.jp/wp-content/uploads/2019/11/014-02-1.jpg",
+        "date": "2023/10/01"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    },
+    {
+        "id": 2,
+        "name": "氏名2",
+        "content": "投稿内容2",
+        "ocrContent": "画像OCR結果内容2",
+        "imageUrl": "https://via.placeholder.com/150",
+        "date": "2023/10/02"
+    }
+]
